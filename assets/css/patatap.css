@@ -1,16 +1,30 @@
 #canvas {
+    margin: 0;
     width: 100%;
     height: 100%;
     box-sizing: border-box;
-    border: 5px solid rgba(0,0,0,0);
+    border: 2px solid gray;
+    background: black;
 }
 
 body {
-    background:  white;
+    background:  darkblue;
+    Color: Gray;
 }
 
 html,body {
     height: 100%;
     margin: 0;
-    border: 2px solid gray
+   
+}
+
+h1 {
+    margin: 10px 0;
+    padding: 0;
+    text-align: center;
+    font-weight: normal;
+}
+
+span:hover {
+    color: white;
 }
