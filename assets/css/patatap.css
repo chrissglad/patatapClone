@@ -28,3 +28,11 @@ h1 {
 span:hover {
     color: white;
 }
+
+#author {
+    font-size: 14px;
+    float: right;
+    line-height: 30px;
+    margin-right: 40px;
+    color: white;
+}
