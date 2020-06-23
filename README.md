@@ -1,6 +1,8 @@
 # patatapClone
 
-To access go to https://chrissglad.github.io/patatapClone/
+# Welcome to my PatatapClone Project
+
+### To access go to https://chrissglad.github.io/patatapClone/
 
 This is a test clone project of the patatap.com
 
